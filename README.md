@@ -213,7 +213,7 @@ In *Overview*, you can check/compare the language features of different files.
 4. **Count of Types**:<br>
     Number of token types in each file.
 
-5. **Count of Caracters**:<br>
+5. **Count of Characters**:<br>
     Number of single characters in each file. Spaces, tabs and all other invisible characters are ignored.
 
 6. **Type-Token Ratio**:<br>
